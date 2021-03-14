@@ -1,0 +1,43 @@
+.header{
+	text-align: center;
+}
+form input{
+	display: inline-block;
+    width: 50%;
+    border: black 1px solid;
+    margin-left: 25%;
+}
+h3{
+	text-align: center;
+}
+.checkbox{
+	width: 50%;
+	    border: black 1px solid;
+}
+body{
+	background-color: yellow;
+}
+button{
+	display: flex;
+	 justify-content: center;
+}
+.training{
+	text-align: center;
+	color: black;
+
+}
+.training h4:hover{
+	color: red;
+}
+.button{
+	margin-top: 20px;
+}
+button:hover{
+        background-color: red;
+    color: #FFD700;
+}
+.as{
+	background-color:yellow;
+	border-color: #C0C0C0;
+	color: red;
+}
